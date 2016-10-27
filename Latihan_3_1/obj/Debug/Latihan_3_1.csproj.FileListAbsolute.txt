@@ -1,0 +1,36 @@
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\bin\Debug\Latihan_3_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\bin\Debug\Latihan_3_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\obj\Debug\Latihan_3_1.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\obj\Debug\Latihan_3_1.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_3_1\obj\Debug\Latihan_3_1.frmMain.resources
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\bin\Debug\Latihan_3_1.exe
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\bin\Debug\Latihan_3_1.pdb
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\obj\Debug\Latihan_3_1.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\obj\Debug\Latihan_3_1.Form1.resources
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\obj\Debug\Latihan_3_1.Properties.Resources.resources
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\bin\Debug\Latihan_3_1.exe
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\bin\Debug\Latihan_3_1.pdb
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.csprojResolveAssemblyReference.cache
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.Form1.resources
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.Properties.Resources.resources
+D:\Mikroskil\Semester 5\framework lanjutan\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\bin\Debug\Latihan_3_1.exe
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\bin\Debug\Latihan_3_1.pdb
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.csprojResolveAssemblyReference.cache
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.Form1.resources
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.Properties.Resources.resources
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
