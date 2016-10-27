@@ -25,3 +25,6 @@ D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Lat
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+C:\Users\kevin\Downloads\Senin_141110876_KevinFransetio-master\Senin_141110876_KevinFransetio-master\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+C:\Users\kevin\Downloads\Senin_141110876_KevinFransetio-master\Senin_141110876_KevinFransetio-master\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+C:\Users\kevin\Downloads\Senin_141110876_KevinFransetio-master\Senin_141110876_KevinFransetio-master\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
