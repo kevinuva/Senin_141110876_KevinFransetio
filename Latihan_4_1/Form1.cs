@@ -23,7 +23,7 @@ namespace Latihan_4_1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //referensi denny ho
+            //referensi Denny Ho
             Color clr = new Color();
             PropertyInfo[] colors = clr.GetType().GetProperties();
             for (int i = 8; i <= 72; i++)
@@ -55,7 +55,7 @@ namespace Latihan_4_1
             toolStripComboBox2.Text = "Calibri";
             toolStripComboBox3.Text = "Black";
             toolStripComboBox4.Text = "White";
-            updateText();
+            changeText();
             //event
             this.toolStripComboBox4.ComboBox.DrawItem += new DrawItemEventHandler(toolStripComboBox3_DrawItem);
             this.toolStripComboBox3.ComboBox.DrawItem += new DrawItemEventHandler(toolStripComboBox3_DrawItem);
@@ -84,7 +84,7 @@ namespace Latihan_4_1
             e.DrawFocusRectangle();
         }
 
-        private void rtbNote_SelectionChanged(object sender, EventArgs e)
+        private void richTextBox1_SelectionChanged(object sender, EventArgs e)
         {
             toolStripButton1.Checked = false;
             toolStripButton2.Checked = false;
@@ -130,12 +130,12 @@ namespace Latihan_4_1
             {
                 return;
             }
-            updateText(sender);
+            changeText(sender);
         }
         private void toolStripComboBox3_SelectedIndexChanged(object sender, EventArgs e)
         {
             int length = richTextBox1.SelectionLength;
-            int start = richTextBox1.SelectionStart; 
+            int start = richTextBox1.SelectionStart;
             ToolStripComboBox tscb = (ToolStripComboBox)sender;
             if (!tscb.Focused)
             {
@@ -147,7 +147,7 @@ namespace Latihan_4_1
         private void toolStripComboBox4_SelectedIndexChanged(object sender, EventArgs e)
         {
             int length = richTextBox1.SelectionLength;
-            int start = richTextBox1.SelectionStart; 
+            int start = richTextBox1.SelectionStart;
             ToolStripComboBox tscb = (ToolStripComboBox)sender;
             if (!tscb.Focused)
             {
@@ -163,11 +163,11 @@ namespace Latihan_4_1
             {
                 return;
             }
-            updateText(sender);
+            changeText(sender);
         }
         private void toolStripComboBox1_LostFocus(object sender, EventArgs e)
         {
-            updateText(sender);
+            changeText(sender);
         }
         private void toolStripComboBox3_LostFocus(object sender, EventArgs e)
         {
@@ -185,24 +185,24 @@ namespace Latihan_4_1
         }
         private void toolStripComboBox2_LostFocus(object sender, EventArgs e)
         {
-            updateText(sender);
+            changeText(sender);
         }
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
             toolStripButton1.Checked ^= true;
-            updateText(sender);
+            changeText(sender);
         }
 
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
             toolStripButton2.Checked ^= true;
-            updateText(sender);
+            changeText(sender);
         }
 
         private void toolStripButton3_Click(object sender, EventArgs e)
         {
             toolStripButton3.Checked ^= true;
-            updateText(sender);
+            changeText(sender);
         }
 
         private void saveFile()
@@ -216,7 +216,7 @@ namespace Latihan_4_1
                 {
                     richTextBox1.SaveFile(saveFileDialog1.FileName);
                     saveFileDirectory = saveFileDialog1.FileName;
-                    this.Text = this.Text + " - " + saveFileDialog1.FileName;
+                    this.Text = "Form1 - " + saveFileDialog1.FileName;
                 }
             }
             else
@@ -229,7 +229,7 @@ namespace Latihan_4_1
             }
             isSave = true;
         }
-        private void updateText(object sender = null)
+        private void changeText(object sender = null)
         {
             bool isBold, isItalic, isUnderline;
             int length = richTextBox1.SelectionLength;
@@ -237,7 +237,7 @@ namespace Latihan_4_1
             float fontSize;
             string fontFamily;
             System.Drawing.FontStyle currentStyle;
-            this.richTextBox1.SelectionChanged -= new System.EventHandler(this.rtbNote_SelectionChanged);
+            this.richTextBox1.SelectionChanged -= new System.EventHandler(this.richTextBox1_SelectionChanged);
             if (length == 0)
             {
                 fontFamily = (toolStripComboBox2.Text == "") ? richTextBox1.SelectionFont.FontFamily.Name : toolStripComboBox2.Text;
@@ -270,7 +270,7 @@ namespace Latihan_4_1
             }
             for (int i = start; i < start + length; i++)
             {
-                richTextBox1.SelectionChanged -= new System.EventHandler(this.rtbNote_SelectionChanged);
+                richTextBox1.SelectionChanged -= new System.EventHandler(this.richTextBox1_SelectionChanged);
                 richTextBox1.Select(i, 1);
                 fontFamily = (toolStripComboBox2.Text == "") ? richTextBox1.SelectionFont.FontFamily.Name : toolStripComboBox2.Text;
                 fontSize = (toolStripComboBox1.Text == "") ? richTextBox1.SelectionFont.Size : Convert.ToSingle(toolStripComboBox1.Text);
@@ -304,7 +304,7 @@ namespace Latihan_4_1
             richTextBox1.Focus();
             richTextBox1.Select(start, length);
 
-            this.richTextBox1.SelectionChanged += new System.EventHandler(this.rtbNote_SelectionChanged);
+            this.richTextBox1.SelectionChanged += new System.EventHandler(this.richTextBox1_SelectionChanged);
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -336,17 +336,35 @@ namespace Latihan_4_1
             if (dr == DialogResult.OK)
             {
                 richTextBox1.LoadFile(openFileDialog1.FileName);
+                saveFileDirectory = openFileDialog1.FileName;
+                this.Text = "Form1 - " + openFileDialog1.FileName;
             }
         }
 
-        private void rtbNote_TextChanged(object sender, EventArgs e)
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
             isSave = false;
         }
 
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            DialogResult dr;
+            if (!isSave)
+            {
+                dr = MessageBox.Show("Apakah Anda ingin menyimpan file terlebih dahulu?", "Simpan file", MessageBoxButtons.YesNoCancel);
+                if (dr == DialogResult.Cancel)
+                {
+                    return;
+                }
+                else if (dr == DialogResult.Yes)
+                {
+                    saveFile();
+                }
+            }
+            isSave = true;
+            saveFileDirectory = "";
+            this.Text = "Form1";
+            richTextBox1.Rtf = "";
         }
     }
 }
