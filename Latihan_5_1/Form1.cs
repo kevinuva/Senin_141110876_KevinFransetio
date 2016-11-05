@@ -257,7 +257,7 @@ namespace Latihan_5_1
                 {
                     richTextBox1.SaveFile(saveFileDialog1.FileName);
                     saveFileDirectory = saveFileDialog1.FileName;
-                    this.Text = "Form 5.1. - " + saveFileDialog1.FileName;
+                    this.Text = "Latihan_5_1 - " + saveFileDialog1.FileName;
                 }
             }
             else
@@ -378,7 +378,7 @@ namespace Latihan_5_1
             {
                 richTextBox1.LoadFile(openFileDialog1.FileName);
                 saveFileDirectory = openFileDialog1.FileName;
-                this.Text = "Form 5.1 - " + openFileDialog1.FileName;
+                this.Text = "Latihan_5_1 - " + openFileDialog1.FileName;
             }
         }
 
@@ -441,7 +441,7 @@ namespace Latihan_5_1
             }
             isSave = true;
             saveFileDirectory = "";
-            this.Text = "Form 5.1";
+            this.Text = "Latihan_5_1";
             richTextBox1.Rtf = "";
         }
 
