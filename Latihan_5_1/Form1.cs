@@ -445,6 +445,9 @@ namespace Latihan_5_1
             richTextBox1.Rtf = "";
         }
 
-        
+        private void settingToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

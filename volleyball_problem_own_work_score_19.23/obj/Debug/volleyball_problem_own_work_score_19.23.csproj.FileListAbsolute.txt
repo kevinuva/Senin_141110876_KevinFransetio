@@ -1,0 +1,8 @@
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\bin\Debug\volleyball_problem_own_work_score_19.23.exe.config
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\bin\Debug\volleyball_problem_own_work_score_19.23.exe
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\bin\Debug\volleyball_problem_own_work_score_19.23.pdb
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19._23.Form1.resources
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19._23.Properties.Resources.resources
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19.23.csproj.GenerateResource.Cache
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19.23.exe
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19.23.pdb
