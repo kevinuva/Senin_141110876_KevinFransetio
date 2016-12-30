@@ -6,3 +6,4 @@ D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_wo
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19.23.csproj.GenerateResource.Cache
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19.23.exe
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19.23.pdb
+D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\volleyball_problem_own_work_score_19.23\obj\Debug\volleyball_problem_own_work_score_19.23.csprojResolveAssemblyReference.cache

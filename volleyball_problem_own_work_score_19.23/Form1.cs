@@ -19,7 +19,7 @@ namespace volleyball_problem_own_work_score_19._23
 
         private void BtnHitung_Click(object sender, EventArgs e)
         {
-            long a, b, c, modulus = 1000000007, hasilA = 1, hasilB = 1, faktorial, temp;
+            long a, b, c, hasilA = 1, hasilB = 1, faktorial, temp;
             a = Convert.ToInt64(Txt1.Text);
             b = Convert.ToInt64(Txt2.Text);
             if (a < 24 && b == 25)

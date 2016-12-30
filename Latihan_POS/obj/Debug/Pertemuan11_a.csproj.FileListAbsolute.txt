@@ -1,0 +1,21 @@
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe.config
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.pdb
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\MySql.Data.dll
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\MySql.Web.dll
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csprojResolveAssemblyReference.cache
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Form1.resources
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Properties.Resources.resources
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csproj.GenerateResource.Cache
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.exe
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.pdb
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe.config
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.exe
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.pdb
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.pdb
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Properties.Resources.resources
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csproj.GenerateResource.Cache
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.FormSupplier.resources
+C:\Users\kevin\Downloads\Compressed\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.FormHome.resources

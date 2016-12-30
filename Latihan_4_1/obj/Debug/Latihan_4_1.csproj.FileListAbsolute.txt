@@ -21,7 +21,6 @@ D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Lat
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\bin\Debug\Latihan_4_1.exe
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
-D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
 D:\Mikroskil\Semester 5\Senin_141110876_KevinFransetio\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
